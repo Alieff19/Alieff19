@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 About Me
-Saya adalah mahasiswa S1 Informatika dan penerima **Beasiswa OPES Full** dari Yayasan Pendidikan Telkom. Sebagai lulusan terbaik dari program Teknik Komputer dan Jaringan, saya memiliki fondasi kuat dalam infrastruktur IT dan kini berfokus pada pengembangan perangkat lunak yang aman dan *scalable*.
+Saya adalah mahasiswa S1 Informatika dan penerima **Beasiswa OPES Full** dari Yayasan Pendidikan Telkom. Sebagai lulusan terbaik dari program Teknik Komputer dan Jaringan SMK Telkom Banjarbaru, saya memiliki fondasi kuat dalam infrastruktur IT dan kini berfokus pada pengembangan perangkat lunak yang aman dan *scalable*.
 
 * 🔭 I’m currently working on **Secure File Encryption (AES) & Dockerized Apps**
 * 🌱 I’m currently learning **DevSecOps & Digital Forensics**
