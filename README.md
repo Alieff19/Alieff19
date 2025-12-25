@@ -59,17 +59,13 @@ Berikut adalah beberapa proyek unggulan yang sedang atau telah saya kerjakan:
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alieff19&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alieff19&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alieff19&show_icons=true&theme=radical&hide_border=true&count_private=false" alt="stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alieff19&layout=compact&theme=radical&hide_border=true" alt="languages" height="150" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alieff19&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Alieff19&icon=5&color=12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alieff19&theme=radical&hide_border=true" alt="streak" />
 </div>
