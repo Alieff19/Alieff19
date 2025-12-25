@@ -58,14 +58,5 @@ Berikut adalah beberapa proyek unggulan yang sedang atau telah saya kerjakan:
 ---
 
 ### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alieff19&show_icons=true&theme=radical&hide_border=true&count_private=false" alt="stats" height="150" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alieff19&layout=compact&theme=radical&hide_border=true" alt="languages" height="150" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alieff19&theme=radical&hide_border=true" alt="streak" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alieff19&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alieff19&layout=compact&theme=radical)
